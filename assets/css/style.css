@@ -1,0 +1,22 @@
+.im {
+    width: 640px;
+    height: 60px;
+}
+
+.content_image {
+    width: 120px;
+    height: 150px;
+    border: 1px black solid;
+    place-items: center;
+    cursor: pointer;
+}
+
+.images {
+    margin: 2px 2px;
+}
+
+.image {
+    width: 100px;
+    height: 100px;
+    margin: 2px 1px;
+}
